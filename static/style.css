@@ -5,13 +5,11 @@ h2 { margin-left: 75px; }
 ul.main-menu {
     list-style-type: disc;
     text-align: center;
-    margin: 0;
-    padding: 0;
+    padding: 30px;
 }
 ul.main-menu>li {
     color: red;
     display: inline;
-    padding: 20;
 }
 .frame {
   width: 80%;
