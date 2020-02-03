@@ -2,7 +2,7 @@ h1 { text-align: center; }
 
 ul.main-menu {
     list-style-type: none;
-    margin: 0;
+    margin: 20;
     padding: 20;
 }
 ul.main-menu>li {
