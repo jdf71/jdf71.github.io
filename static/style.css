@@ -6,16 +6,14 @@ ul.main-menu {
     list-style-type: disc;
     text-align: center;
     padding: 30px;
+      width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 ul.main-menu>li {
     color: red;
     display: inline;
-}
-.frame {
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
 }
 
 p { margin-left: 80px;
