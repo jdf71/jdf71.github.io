@@ -12,7 +12,6 @@ ul.main-menu {
   display: block;
 }
 ul.main-menu>li {
-    color: red;
     display: inline;
 }
 
