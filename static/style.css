@@ -16,4 +16,6 @@ ul.main-menu>li {
   display: block;
 }
 
-body { margin: 100; }
+body { margin-left: 80px;
+       margin-right: 80px;
+}
