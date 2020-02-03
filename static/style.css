@@ -13,8 +13,7 @@ ul.main-menu {
 }
 ul.main-menu>li {
     display: inline;
-     margin-left: 20;
-     margin-right: 0;
+    padding: 20px;
 }
 
 p { margin-left: 80px;
