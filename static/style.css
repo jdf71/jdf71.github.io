@@ -1,10 +1,10 @@
 h1 { text-align: center; }
 
-h2 { margin-left: 75px; 
-     margin-right: 75px;}
+h2 { margin-left: 65px; 
+     margin-right: 65px;}
 
 ul.main-menu {
-    list-style-type: disc;
+    list-style-type: none;
     text-align: center;
     padding: 30px;
      width: 80%;
@@ -15,6 +15,7 @@ ul.main-menu {
 ul.main-menu>li {
     display: inline;
      margin-left: 20;
+     margin-right: 0;
 }
 
 p { margin-left: 80px;
