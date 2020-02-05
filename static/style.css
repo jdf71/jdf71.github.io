@@ -12,14 +12,13 @@ ul.main-menu {
      margin-top: 1px;
      margin-bottom: 1px;
      display: block;
-     color: black;
+     color: red;
      background-color: black;
 }
 ul.main-menu>li {
     display: inline;
     padding: 20px;
 }
-.here {color: red}
 
 a:link {color:white;}
 a:visited {color: white;}
