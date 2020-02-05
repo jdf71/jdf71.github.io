@@ -16,6 +16,7 @@ ul.main-menu {
 ul.main-menu>li {
     display: block;
     padding: 20px;
+    color: white;
 }
 
 p { margin-left: 80px;
