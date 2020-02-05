@@ -17,7 +17,7 @@ ul.main-menu>li {
     display: inline;
     padding: 20px;
 }
-.here {background-color: white}
+.here {border-color: red}
 
 a:link {color:white;}
 a:visited {color: white;}
