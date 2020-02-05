@@ -10,6 +10,8 @@ ul.main-menu {
      margin-left: 10px;
      margin-right: 10px;
      display: block;
+     color: white;
+     background-color: black;
 }
 ul.main-menu>li {
     display: inline;
