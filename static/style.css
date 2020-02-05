@@ -14,9 +14,9 @@ ul.main-menu {
      background-color: black;
 }
 ul.main-menu>li {
-    display: block;
+    display: inline;
     padding: 20px;
-    color: white;
+    color: red;
 }
 
 p { margin-left: 80px;
