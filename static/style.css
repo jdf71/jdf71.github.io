@@ -14,7 +14,7 @@ ul.main-menu {
      background-color: black;
 }
 ul.main-menu>li {
-    display: inline;
+    display: block;
     padding: 20px;
 }
 
