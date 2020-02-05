@@ -15,6 +15,7 @@ ul.main-menu {
      display: block;
      color: red;
      background-color: black;
+     font-family: "Georgia", serif;
 }
 ul.main-menu>li {
     display: inline;
