@@ -1,13 +1,13 @@
 h1 { text-align: center; 
      font-variant: small-caps;}
 
-h2 { margin-left: 65px; 
+h2 { margin-left: 5px; 
      margin-right: 65px;
      color: white;}
 
 div { background-color: black;
      border-color: black black red black;
-     margin-right: 40px;
+     margin-right: 60px;
      margin-left: 60px;}
 
 ul.main-menu {
