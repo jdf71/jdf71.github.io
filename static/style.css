@@ -6,6 +6,7 @@ h2 { margin-left: 5px;
      color: white;}
 
 div { background-color: black;
+     border-style: solid;
      border-color: black black red black;
      margin-right: 60px;
      margin-left: 60px;}
