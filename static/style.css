@@ -27,9 +27,6 @@ ul.main-menu {
      color: red;
      background-color: black;
      font-family: "Georgia", serif;
-     border-style: solid;
-     border-width: 3px 3px 2px 3px;
-     border-color: red;
 }
 ul.main-menu>li {
     display: inline;
@@ -49,7 +46,7 @@ ul.sub-menu {
      background-color: black;
      font-family: "Georgia", serif;
      border-style: solid;
-     border-width: 0px 3px 2px 3px;
+     border-width: 3px 0px 0px 0px;
      border-color: red;
 }
 ul.sub-menu>li {
