@@ -12,7 +12,7 @@ div { background-color: black;
      border-width: 1px thin medium thin;
      border-color: black black red black;
      margin-top: 20px;
-     margin-right: 1150px;
+     margin-right: 1100px;
      margin-left: 60px;}
 
 ul.main-menu {
@@ -27,6 +27,9 @@ ul.main-menu {
      color: red;
      background-color: black;
      font-family: "Georgia", serif;
+     border-style: solid;
+     border-width: thin;
+     border-color: red;
 }
 ul.main-menu>li {
     display: inline;
