@@ -7,6 +7,7 @@ h2 { margin-left: 5px;
 
 div { background-color: black;
      border-style: solid;
+     border-width: thin thin medium thin;
      border-color: black black red black;
      margin-right: 60px;
      margin-left: 60px;}
