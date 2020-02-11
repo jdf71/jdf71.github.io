@@ -85,4 +85,5 @@ footer { width: 95%;
          border-width: thin thin thin medium;
          border-color: black black black red;
          margin-top: 20px;
-         background-color: black;}
+         background-color: black;
+         padding: 3px;}
