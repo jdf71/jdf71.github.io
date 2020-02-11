@@ -38,7 +38,8 @@ ul.main-menu {
 ul.main-menu>li {
     display: inline-block;
     padding: 20px;
-    width: 10%;
+    width: 13%;
+     height: 100%;
 }
 
 ul.sub-menu {
