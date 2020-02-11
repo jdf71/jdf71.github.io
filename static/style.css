@@ -36,7 +36,7 @@ ul.main-menu {
      font-family: "Georgia", serif;
 }
 ul.main-menu>li {
-    display: list-item;
+    display: inline;
     padding: 20px;
     width: 100%
 }
