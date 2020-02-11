@@ -24,8 +24,9 @@ div { background-color: black;
 ul.main-menu {
     list-style-type: none;
     text-align: center;
-    padding: 20px;
      width: 90%;
+     margin-left: auto;
+     margin-right: auto;
      margin-top: 0px;
      margin-bottom: 0px;
      display: block;
