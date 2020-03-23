@@ -103,4 +103,6 @@ table, th, td {
   border-collapse: collapse;
 }
 
+table {align: center; }
+
 th { text-align: center; }
