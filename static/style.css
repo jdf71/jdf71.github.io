@@ -105,7 +105,9 @@ table, th, td {
 
 table { margin: 0 auto; }
 
-th { text-align: center; }
+th { text-align: center; 
+     background-color: black;
+     color: white;}
 
 iframe { display: block;
      margin: 0 auto; }
