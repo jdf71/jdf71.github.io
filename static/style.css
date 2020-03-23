@@ -103,6 +103,9 @@ table, th, td {
   border-collapse: collapse;
 }
 
-table {align: center; }
+table { margin: 0 auto; }
 
 th { text-align: center; }
+
+iframe { display: block;
+     margin: 0 auto; }
