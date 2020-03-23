@@ -97,3 +97,10 @@ footer { width: 95%;
          margin-top: 20px;
          background-color: black;
          padding: 3px;}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th { text-align: center; }
