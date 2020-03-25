@@ -20,7 +20,10 @@ div { background-color: black;
      margin-top: 20px;
      margin-right: 60px;
      margin-left: 60px;}
-.image{text-align: center;}
+.image{text-align: center;
+     height:400;
+     border-style: none;
+     background-color: white;}
 
 ul.main-menu {
     list-style-type: none;
