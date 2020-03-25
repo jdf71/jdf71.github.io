@@ -21,7 +21,12 @@ div { background-color: black;
      margin-right: 60px;
      margin-left: 60px;}
 .image{text-align: center;
-     height:800px;
+     height:500px;
+     inline-block;
+     border-style: none;
+     background-color: white;}
+.image2{text-align: center;
+     height:900px;
      inline-block;
      border-style: none;
      background-color: white;}
