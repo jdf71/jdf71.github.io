@@ -21,13 +21,11 @@ div { background-color: black;
      margin-right: 60px;
      margin-left: 60px;}
 .image{text-align: center;
-     height: 500px;
-     display: inline-block;
+     height: 410px;
      border-style: none;
      background-color: white;}
 .image2{text-align: center;
      height:900px;
-     display: inline-block;
      border-style: none;
      background-color: white;}
 
