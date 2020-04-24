@@ -28,6 +28,10 @@ div { background-color: black;
      height:810px;
      border-style: none;
      background-color: white;}
+.wave{text-align: center;
+     height: 40px;
+     border-style: none;
+     background-color: white;}
 
 ul.main-menu {
     list-style-type: none;
